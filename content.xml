@@ -1,0 +1,1617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>2026043014103955Z415</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260430141039BQ3PCZ</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SdA Propuesta para el alumnado</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Contenido propio de la situación propuesta en distintos formatos (Textos, vídeos, infografías, etc.). 
+Material de apoyo o de ampliación, preguntas de repaso, etc., si lo estimas oportuno. 
+Diccionario de términos. 
+Realización de actividades y el soporte digital en el que se van a realizar y /o presentar (One Note, TEAMS, Aulas Virtuales, etc.). 
+Juegos propios del entorno eXeLearning.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777542362632</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>df7bc400-5433-4f70-bb2a-12622a9fe3fc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SdA &quot;El hotel de bichos&quot;</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SdA &quot;El hotel de bichos&quot;</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>SdA &quot;El hotel de bichos&quot;</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>df7bc400-5433-4f70-bb2a-12622a9fe3fc</odePageId>
+      <odeBlockId>block-1777542779187-ho4ryyn17</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>df7bc400-5433-4f70-bb2a-12622a9fe3fc</odePageId>
+          <odeBlockId>block-1777542779187-ho4ryyn17</odeBlockId>
+          <odeIdeviceId>idevice-1777542779184-9n6c73s9t</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777542779184-9n6c73s9t" title="" href="{{context_path}}/content/resources/Hotel de bichos-SdA.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Hotel de bichos-SdA.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777542779184-9n6c73s9t","img_0":{"img":"{{context_path}}/content/resources/Hotel de bichos-SdA.png","thumbnail":"{{context_path}}/content/resources/Hotel de bichos-SdA.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777542586176-vqwg5k000</odePageId>
+  <odeParentPageId>df7bc400-5433-4f70-bb2a-12622a9fe3fc</odeParentPageId>
+  <pageName>Sesión 1. Inicio y motivación</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1. Inicio y motivación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 1. Inicio y motivación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777542586176-vqwg5k000</odePageId>
+      <odeBlockId>block-1777543509771-c0824imcs</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777542586176-vqwg5k000</odePageId>
+          <odeBlockId>block-1777543509771-c0824imcs</odeBlockId>
+          <odeIdeviceId>idevice-1777543509769-wt7woh6qr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>¿Qué vamos a aprender?</strong><br />Hoy comenzamos una nueva situación de aprendizaje en la que vamos a descubrir qué insectos viven cerca de nuestro entorno y por qué son importantes para la naturaleza.</p>
+<p><strong>Motivación: </strong></p>
+<p>Al llegar al aula nos encontramos algunas flores que nos marcan el camino y al llegar a la asamblea un montón de flores e imágenes de algunos insectos, a su lado, tenemos una carta de nuestra investigadora favorita, "la guardina de los bosques Elisa", está nos invita a observar y escuchar en nuestro entorno cercano, buscando animales y sobre todo insectos que han llegado con la primavera, para ello nos deja un kit: lupas, cajas caza insectos, caza mariposas, y pinzas para coger insectos, además de una libreta para documentar lo observado y acontecido durante la situación de aprendizaje.</p>
+<p><strong>Reto: </strong>Además, nos encomienda la misión de recabar información para construir nuestro propio hotel de bichos, así como la realización de una infografía sobre los insectos y un podcast explicando cómo hacer el hotel de bichos y su importancia para explicárselo a la comunidad educativa y a la gente del pueblo, animándoles a construir su propio hotel de bichos.</p>
+<p><strong>Actividad: Salimos al patio del centro y al entorno cercano </strong></p>
+<p>Primero en asamblea, el alumnado observa las imágenes y comenta qué insectos conoce y si los ha visto alguna vez. Luego leemos la carta de Elisa y salimos al patio y entorno cercano a investigar.<br /><img src="{{context_path}}/content/resources/llegada al aula.png" width="1366" height="911" alt="Aula al llegar + carta y material" /><img src="{{context_path}}/content/resources/kit insectos.png" width="514" height="421" alt="material para investigar insectos" /><img src="{{context_path}}/content/resources/47101969-e05d-4445-8b90-f53c9cfe6a3e.jpeg" width="480" height="640" alt="Alumnado observando" /></p>
+<p><strong>Reflexionamos</strong></p>
+<p>¿Qué insectos hemos visto?<br />¿Dónde viven?<br />¿Por qué creéis que son importantes?<br /><strong>Evaluación</strong><br />Se observa la participación, la expresión oral y el interés mostrado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777543509769-wt7woh6qr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¿Qué vamos a aprender?</strong><br />Hoy comenzamos una nueva situación de aprendizaje en la que vamos a descubrir qué insectos viven cerca de nuestro entorno y por qué son importantes para la naturaleza.</p>\n<p><strong>Motivación: </strong></p>\n<p>Al llegar al aula nos encontramos algunas flores que nos marcan el camino y al llegar a la asamblea un montón de flores e imágenes de algunos insectos, a su lado, tenemos una carta de nuestra investigadora favorita, \"la guardina de los bosques Elisa\", está nos invita a observar y escuchar en nuestro entorno cercano, buscando animales y sobre todo insectos que han llegado con la primavera, para ello nos deja un kit: lupas, cajas caza insectos, caza mariposas, y pinzas para coger insectos, además de una libreta para documentar lo observado y acontecido durante la situación de aprendizaje.</p>\n<p><strong>Reto: </strong>Además, nos encomienda la misión de recabar información para construir nuestro propio hotel de bichos, así como la realización de una infografía sobre los insectos y un podcast explicando cómo hacer el hotel de bichos y su importancia para explicárselo a la comunidad educativa y a la gente del pueblo, animándoles a construir su propio hotel de bichos.</p>\n<p><strong>Actividad: Salimos al patio del centro y al entorno cercano </strong></p>\n<p>Primero en asamblea, el alumnado observa las imágenes y comenta qué insectos conoce y si los ha visto alguna vez. Luego leemos la carta de Elisa y salimos al patio y entorno cercano a investigar.<br /><img src=\"{{context_path}}/content/resources/llegada al aula.png\" width=\"1366\" height=\"911\" alt=\"Aula al llegar + carta y material\" /><img src=\"{{context_path}}/content/resources/kit insectos.png\" width=\"514\" height=\"421\" alt=\"material para investigar insectos\" /><img src=\"{{context_path}}/content/resources/47101969-e05d-4445-8b90-f53c9cfe6a3e.jpeg\" width=\"480\" height=\"640\" alt=\"Alumnado observando\" /></p>\n<p><strong>Reflexionamos</strong></p>\n<p>¿Qué insectos hemos visto?<br />¿Dónde viven?<br />¿Por qué creéis que son importantes?<br /><strong>Evaluación</strong><br />Se observa la participación, la expresión oral y el interés mostrado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777543136306-qzvinx4pg</odePageId>
+  <odeParentPageId>df7bc400-5433-4f70-bb2a-12622a9fe3fc</odeParentPageId>
+  <pageName>Sesión 2. Cuento &quot;el Hotel de bichitos&quot;</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 2. Cuento &quot;el Hotel de bichitos&quot;</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 2. Cuento &quot;el Hotel de bichitos&quot;</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777543136306-qzvinx4pg</odePageId>
+      <odeBlockId>block-1777544808413-8f1luzkih</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777543136306-qzvinx4pg</odePageId>
+          <odeBlockId>block-1777544808413-8f1luzkih</odeBlockId>
+          <odeIdeviceId>idevice-1777544808411-vervlwaz7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>¿Qué vamos a aprender?</strong><br />A través del cuento, vamos a descubrir qué insectos pueden albergar los hoteles de bichos de una manera divertida, pero también trabajando la importancia de las diferencias y ser empáticos.</p>
+<p><strong>Actividad: Cuento narrado por la maestra</strong></p>
+<p>Al llegar a la asamblea se encuentran un cuento nuevo, ¿Sobre que tratará? la docente lo va contando mientras enseña las imágenes y va haciendo preguntas para comprobar que se está entendiendo el cuento, o para que el alumnado reflexione.<br /><img src="{{context_path}}/content/resources/IMG_8196.jpeg" width="480" height="640" alt="Portado cuento el hotel de bichitos" /><br /></p>
+<p><strong>Reflexionamos</strong></p>
+<p>¿Qué insectos hemos visto?<br />¿Dónde están?<br />¿Por qué no quieren a a babosa? ¿os parece bien? ¿Qué hubiera hecho vosotros?</p>
+<p>A continuación, cada alumno/a realizará un dibujo acerca del cuento y lo que más le ha llamado la atención.</p>
+<p><strong>Evaluación</strong><br />Se observa la escucha atenta y la participación del alumnado, la expresión oral, la reflexión y el interés mostrado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777544808411-vervlwaz7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¿Qué vamos a aprender?</strong><br />A través del cuento, vamos a descubrir qué insectos pueden albergar los hoteles de bichos de una manera divertida, pero también trabajando la importancia de las diferencias y ser empáticos.</p>\n<p><strong>Actividad: Cuento narrado por la maestra</strong></p>\n<p>Al llegar a la asamblea se encuentran un cuento nuevo, ¿Sobre que tratará? la docente lo va contando mientras enseña las imágenes y va haciendo preguntas para comprobar que se está entendiendo el cuento, o para que el alumnado reflexione.<br /><img src=\"{{context_path}}/content/resources/IMG_8196.jpeg\" width=\"480\" height=\"640\" alt=\"Portado cuento el hotel de bichitos\" /><br /></p>\n<p><strong>Reflexionamos</strong></p>\n<p>¿Qué insectos hemos visto?<br />¿Dónde están?<br />¿Por qué no quieren a a babosa? ¿os parece bien? ¿Qué hubiera hecho vosotros?</p>\n<p>A continuación, cada alumno/a realizará un dibujo acerca del cuento y lo que más le ha llamado la atención.</p>\n<p><strong>Evaluación</strong><br />Se observa la escucha atenta y la participación del alumnado, la expresión oral, la reflexión y el interés mostrado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777545332893-rkygf2mdd</odePageId>
+  <odeParentPageId>df7bc400-5433-4f70-bb2a-12622a9fe3fc</odeParentPageId>
+  <pageName>Sesión 3. Rutina de pensamiento</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 3. Rutina de pensamiento</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777545332893-rkygf2mdd</odePageId>
+      <odeBlockId>block-1777545378757-qms5p6acy</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777545332893-rkygf2mdd</odePageId>
+          <odeBlockId>block-1777545378757-qms5p6acy</odeBlockId>
+          <odeIdeviceId>idevice-1777545378755-y3jn6hpdc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Actividad: Rutina de pensamiento: Veo – Pienso – Me pregunto</strong></p>
+<p>Vamos a observar imágenes y vídeos reales de insectos.</p>
+<p>• Veo: ¿Qué aparece en la imagen o en el vídeo?<br />• Pienso: ¿Qué creo que está pasando?<br />• Me pregunto: ¿Qué me gustaría saber sobre este insecto?</p>
+<p>Esta rutina nos ayuda a observar con atención, expresar nuestras ideas y despertar la curiosidad.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777545378755-y3jn6hpdc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Actividad: Rutina de pensamiento: Veo – Pienso – Me pregunto</strong></p>\n<p>Vamos a observar imágenes y vídeos reales de insectos.</p>\n<p>• Veo: ¿Qué aparece en la imagen o en el vídeo?<br />• Pienso: ¿Qué creo que está pasando?<br />• Me pregunto: ¿Qué me gustaría saber sobre este insecto?</p>\n<p>Esta rutina nos ayuda a observar con atención, expresar nuestras ideas y despertar la curiosidad.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777545332893-rkygf2mdd</odePageId>
+      <odeBlockId>block-1777545887534-7726cuqi7</odeBlockId>
+      <blockName>Veo- Pienso: Insectos y su importancia</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777545332893-rkygf2mdd</odePageId>
+          <odeBlockId>block-1777545887534-7726cuqi7</odeBlockId>
+          <odeIdeviceId>idevice-1777545887532-o294v0deq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se les enseñará tanto imágenes como vídeo acerca de insectos (DUA)</p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/3tXZZTy_ncE" allowfullscreen="allowfullscreen"></iframe></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777545887532-o294v0deq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se les enseñará tanto imágenes como vídeo acerca de insectos (DUA)</p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/3tXZZTy_ncE\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777545332893-rkygf2mdd</odePageId>
+      <odeBlockId>block-1777545528637-l6hfeil54</odeBlockId>
+      <blockName>Veo: imágenes de insectos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777545332893-rkygf2mdd</odePageId>
+          <odeBlockId>block-1777545528637-l6hfeil54</odeBlockId>
+          <odeIdeviceId>idevice-1777545528635-c5u5l0jrl</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777545528635-c5u5l0jrl" title="" href="{{context_path}}/content/resources/c0bb75f2c363d0b2bd56d8142dbba5f4.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/c0bb75f2c363d0b2bd56d8142dbba5f4.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1777545528635-c5u5l0jrl" title="" href="{{context_path}}/content/resources/26e205c8543fe35800229d2c657491f4.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/26e205c8543fe35800229d2c657491f4.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_2" class="imageContainer"> <a idevice-id="idevice-1777545528635-c5u5l0jrl" title="" href="{{context_path}}/content/resources/d2d36d0f0e3ef53bca19205032b1a1bb.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/d2d36d0f0e3ef53bca19205032b1a1bb.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_3" class="imageContainer"> <a idevice-id="idevice-1777545528635-c5u5l0jrl" title="" href="{{context_path}}/content/resources/sonika-agarwal-sCECxmn0HMY-unsplash.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/sonika-agarwal-sCECxmn0HMY-unsplash.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_4" class="imageContainer"> <a idevice-id="idevice-1777545528635-c5u5l0jrl" title="" href="{{context_path}}/content/resources/james-wainscoat-tGFHDkOGvC0-unsplash.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/james-wainscoat-tGFHDkOGvC0-unsplash.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_5" class="imageContainer"> <a idevice-id="idevice-1777545528635-c5u5l0jrl" title="" href="{{context_path}}/content/resources/sonika-agarwal-WBPcT5DC8wo-unsplash.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/sonika-agarwal-WBPcT5DC8wo-unsplash.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_6" class="imageContainer"> <a idevice-id="idevice-1777545528635-c5u5l0jrl" title="" href="{{context_path}}/content/resources/elegance-nairobi-Ja_FIdTNJaQ-unsplash.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/elegance-nairobi-Ja_FIdTNJaQ-unsplash.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_7" class="imageContainer"> <a idevice-id="idevice-1777545528635-c5u5l0jrl" title="" href="{{context_path}}/content/resources/abeja.jpeg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/abeja.jpeg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777545528635-c5u5l0jrl","img_0":{"img":"{{context_path}}/content/resources/c0bb75f2c363d0b2bd56d8142dbba5f4.jpg","thumbnail":"{{context_path}}/content/resources/c0bb75f2c363d0b2bd56d8142dbba5f4.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/26e205c8543fe35800229d2c657491f4.jpg","thumbnail":"{{context_path}}/content/resources/26e205c8543fe35800229d2c657491f4.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_2":{"img":"{{context_path}}/content/resources/d2d36d0f0e3ef53bca19205032b1a1bb.jpg","thumbnail":"{{context_path}}/content/resources/d2d36d0f0e3ef53bca19205032b1a1bb.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_3":{"img":"{{context_path}}/content/resources/sonika-agarwal-sCECxmn0HMY-unsplash.jpg","thumbnail":"{{context_path}}/content/resources/sonika-agarwal-sCECxmn0HMY-unsplash.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_4":{"img":"{{context_path}}/content/resources/james-wainscoat-tGFHDkOGvC0-unsplash.jpg","thumbnail":"{{context_path}}/content/resources/james-wainscoat-tGFHDkOGvC0-unsplash.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_5":{"img":"{{context_path}}/content/resources/sonika-agarwal-WBPcT5DC8wo-unsplash.jpg","thumbnail":"{{context_path}}/content/resources/sonika-agarwal-WBPcT5DC8wo-unsplash.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_6":{"img":"{{context_path}}/content/resources/elegance-nairobi-Ja_FIdTNJaQ-unsplash.jpg","thumbnail":"{{context_path}}/content/resources/elegance-nairobi-Ja_FIdTNJaQ-unsplash.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_7":{"img":"{{context_path}}/content/resources/abeja.jpeg","thumbnail":"{{context_path}}/content/resources/abeja.jpeg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777545332893-rkygf2mdd</odePageId>
+      <odeBlockId>block-1777546141902-x3qzrauo0</odeBlockId>
+      <blockName>Pienso- Me pregunto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777545332893-rkygf2mdd</odePageId>
+          <odeBlockId>block-1777546141902-x3qzrauo0</odeBlockId>
+          <odeIdeviceId>idevice-1777546141899-nb71qlvft</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><p>• ¿Qué insectos hemos visto?<br />• ¿Qué crees que hacen?<br />• ¿Dónde viven?<br />• ¿Qué te gustaría aprender sobre ellos?</p>
+<p>Haremos un pequeño mural en nuestro rincón informativo del aula con la información, decidiendo por votación qué 4 insectos vamos a investigar: Mariposa, mariquita, caracol y abeja.</p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Mostrar retroalimentación" data-text-a="Mostrar retroalimentación" data-text-b="Mostrar retroalimentación"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p style="text-align: center;"><strong>¡Buen trabajo observando y haciendo preguntas!</strong></p>
+<p><strong><img src="{{context_path}}/content/resources/5390264.png" width="512" height="512" alt="Buen trabajo" style="display: block; margin-left: auto; margin-right: auto;" /></strong></p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777546141899-nb71qlvft","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p>• ¿Qué insectos hemos visto?<br />• ¿Qué crees que hacen?<br />• ¿Dónde viven?<br />• ¿Qué te gustaría aprender sobre ellos?</p>\n<p>Haremos un pequeño mural en nuestro rincón informativo del aula con la información, decidiendo por votación qué 4 insectos vamos a investigar: Mariposa, mariquita, caracol y abeja.</p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Mostrar retroalimentación\" data-text-a=\"Mostrar retroalimentación\" data-text-b=\"Mostrar retroalimentación\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p style=\"text-align: center;\"><strong>¡Buen trabajo observando y haciendo preguntas!</strong></p>\n<p><strong><img src=\"{{context_path}}/content/resources/5390264.png\" width=\"512\" height=\"512\" alt=\"Buen trabajo\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></strong></p></div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":"<p style=\"text-align: center;\"><strong>¡Buen trabajo observando y haciendo preguntas!</strong></p>\n<p><strong><img src=\"{{context_path}}/content/resources/5390264.png\" width=\"512\" height=\"512\" alt=\"Buen trabajo\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></strong></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777546405942-3le6l4z0q</odePageId>
+  <odeParentPageId>df7bc400-5433-4f70-bb2a-12622a9fe3fc</odeParentPageId>
+  <pageName>Sesión 4. Salida al entorno: Observación/comparación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 4. Salida al entorno: Observación/comparación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777546405942-3le6l4z0q</odePageId>
+      <odeBlockId>block-1777546408637-p3ac7xmro</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777546405942-3le6l4z0q</odePageId>
+          <odeBlockId>block-1777546408637-p3ac7xmro</odeBlockId>
+          <odeIdeviceId>idevice-1777546408635-1c27n105v</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Actividad:</strong></p>
+<p>Salimos al entorno por equipos con una serie de imágenes de insectos que debemos encontrar y nuestro kit de exploración y el diario de investigación.</p>
+<p>Tendrán que buscar el insecto de la imagen en la realidad, observarlo y compararlo y anotar en su diario lo visto o dibujarlo, también puede pegar alguna hoja de la planta donde estaban.</p>
+<p><img src="{{context_path}}/content/resources/lupa.png" width="528" height="433" alt="Lupa insectos" /></p>
+<p><strong>Evaluación:</strong> Participación y observación de los insectos, buscando similitudes y diferencias entre la imagen y la realidad, y comparando los distintos insectos. Participar de manera cooperativa, respetando a sus iguales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777546408635-1c27n105v","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Actividad:</strong></p>\n<p>Salimos al entorno por equipos con una serie de imágenes de insectos que debemos encontrar y nuestro kit de exploración y el diario de investigación.</p>\n<p>Tendrán que buscar el insecto de la imagen en la realidad, observarlo y compararlo y anotar en su diario lo visto o dibujarlo, también puede pegar alguna hoja de la planta donde estaban.</p>\n<p><img src=\"{{context_path}}/content/resources/lupa.png\" width=\"528\" height=\"433\" alt=\"Lupa insectos\" /></p>\n<p><strong>Evaluación:</strong> Participación y observación de los insectos, buscando similitudes y diferencias entre la imagen y la realidad, y comparando los distintos insectos. Participar de manera cooperativa, respetando a sus iguales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777549929174-40vht4rib</odePageId>
+  <odeParentPageId>df7bc400-5433-4f70-bb2a-12622a9fe3fc</odeParentPageId>
+  <pageName>Sesión 5. Visita guarda forestal  </pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 5. Visita guarda forestal  </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777549929174-40vht4rib</odePageId>
+      <odeBlockId>block-1777549956583-awat1e0x4</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777549929174-40vht4rib</odePageId>
+          <odeBlockId>block-1777549956583-awat1e0x4</odeBlockId>
+          <odeIdeviceId>idevice-1777549956582-acpjkkdhe</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Actividad:</strong> Acude a nuestro aula un guarda forestal de la zona, el cual nos explica como funciona el entorno natural y qué papel importante tienen los insectos en él.</p>
+<p>Nos trae imágenes sobre insectos, imágenes sobre cómo afecta la actuación del ser humano en el medio rural, cómo podemos respetar y conservar el medio rural.</p>
+<p>Al finalizar, los niños y niñas podrán hacerle preguntas acerca de dudas.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777549956582-acpjkkdhe","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Actividad:</strong> Acude a nuestro aula un guarda forestal de la zona, el cual nos explica como funciona el entorno natural y qué papel importante tienen los insectos en él.</p>\n<p>Nos trae imágenes sobre insectos, imágenes sobre cómo afecta la actuación del ser humano en el medio rural, cómo podemos respetar y conservar el medio rural.</p>\n<p>Al finalizar, los niños y niñas podrán hacerle preguntas acerca de dudas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777547090621-rdlm24eds</odePageId>
+  <odeParentPageId>df7bc400-5433-4f70-bb2a-12622a9fe3fc</odeParentPageId>
+  <pageName>Sesión 6. Mariposa y mariquita</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 6. Mariposa y mariquita</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 6. Mariposa y mariquita</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777547090621-rdlm24eds</odePageId>
+      <odeBlockId>block-1777547145560-h8hm40jow</odeBlockId>
+      <blockName>Vídeo: La mariposa y la mariquita</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777547090621-rdlm24eds</odePageId>
+          <odeBlockId>block-1777547145560-h8hm40jow</odeBlockId>
+          <odeIdeviceId>idevice-1777547145558-fjjagddhk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd></dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Todos</dd></div></dl><p><strong>Actividad: </strong>Se realizará el visionado de los vídeos sobre las mariposas y las mariquitas. Después en conjunto observaremos similitudes y diferencias.</p>
+<p><strong>LAS MARIPOSAS:</strong></p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/01NwWTGefM0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><strong>LAS MARIQUITAS</strong></p>
+<p><strong><iframe width="560" height="314" src="https://www.youtube.com/embed/xYZ71eh4Sio" allowfullscreen="allowfullscreen"></iframe></strong></p>
+<p><strong>CICLO DE LA VIDA DE LAS MARIQUITAS</strong></p>
+<p><strong><iframe width="560" height="314" src="https://www.youtube.com/embed/GdIr48Fnumo" allowfullscreen="allowfullscreen"></iframe></strong></p>
+<p></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777547145558-fjjagddhk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Todos","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd></dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Todos</dd></div></dl><p><strong>Actividad: </strong>Se realizará el visionado de los vídeos sobre las mariposas y las mariquitas. Después en conjunto observaremos similitudes y diferencias.</p>\n<p><strong>LAS MARIPOSAS:</strong></p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/01NwWTGefM0\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><strong>LAS MARIQUITAS</strong></p>\n<p><strong><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/xYZ71eh4Sio\" allowfullscreen=\"allowfullscreen\"></iframe></strong></p>\n<p><strong>CICLO DE LA VIDA DE LAS MARIQUITAS</strong></p>\n<p><strong><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/GdIr48Fnumo\" allowfullscreen=\"allowfullscreen\"></iframe></strong></p>\n<p></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777547090621-rdlm24eds</odePageId>
+      <odeBlockId>block-1777547896478-ktuv0jab2</odeBlockId>
+      <blockName>Clasifica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777547090621-rdlm24eds</odePageId>
+          <odeBlockId>block-1777547896478-ktuv0jab2</odeBlockId>
+          <odeIdeviceId>idevice-1777547896476-uo012vgjn</odeIdeviceId>
+          <odeIdeviceTypeName>classify</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="clasifica-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1777547896476-uo012vgjn" data-evaluationb="true" data-evaluationid="728ae7d9-283b-4808-a31e-03c37ba57b8e"></div><div class="clasifica-feedback-game"><p><strong>¡Buen trabajo observando los insectos!</strong></p>
+<p><strong><img src="{{context_path}}/content/resources/5390264.png" width="512" height="512" alt="bien" /></strong></p></div><div class="clasifica-instructions"><p>Observa las imágenes con atención y colócalas en el grupo correcto.<br />¿Es una mariposa o una mariquita?</p></div><div class="clasifica-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FE%F3%E1%FB%F4%FB%F1%F3%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%DD%F0%E1%F7%E0%E4%F3%B2%FE%F3%E1%B2%FB%FFs%F5%F7%FC%F7%E1%B2%F1%FD%FC%B2%F3%E6%F7%FC%F1%FBa%FC%B2%EB%B2%F1%FD%FEa%F1%F3%FE%F3%E1%B2%F7%FC%B2%F7%FE%B2%F5%E0%E7%E2%FD%B2%F1%FD%E0%E0%F7%F1%E6%FD%BC%AE%F0%E0%B2%BD%AC-%D7%E1%B2%E7%FC%F3%B2%FF%F3%E0%FB%E2%FD%E1%F3%B2%FD%B2%E7%FC%F3%B2%FF%F3%E0%FB%E3%E7%FB%E6%F3%AD%AE%BD%E2%AC%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E5%FD%E0%F6%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%AB%F3%F1%F7%A5%A2%A2%AB%BF%A6%A6%AB%F0%BF%A3%A2%A0%F0%BF%A7%AA%F1%A5%BF%A1%F0%A1%A5%A6%AB%A5%A1%F3%A4%A1%A3%BC%F8%E2%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A2%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%EA%B0%A8%FC%E7%FE%FE%BE%B0%EB%B0%A8%FC%E7%FE%FE%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%AA%A3%F3%A6%A3%F1%AB%A6%BF%AB%F4%AA%A3%BF%AA%F7%A7%A0%BF%A2%AB%A3%A0%BF%F4%A4%A6%F0%A4%F7%F6%F0%A0%AB%A7%F4%BC%F8%E2%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A2%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%EA%B0%A8%FC%E7%FE%FE%BE%B0%EB%B0%A8%FC%E7%FE%FE%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%A1%AA%F4%AA%F3%AA%F7%A0%BF%A2%A7%AB%AB%BF%F7%F0%F0%A4%BF%F7%F1%F0%A1%BF%A7%A2%A1%AA%F0%AB%A3%A0%A0%A4%A6%F3%BC%F8%E2%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A3%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%EA%B0%A8%FC%E7%FE%FE%BE%B0%EB%B0%A8%FC%E7%FE%FE%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%A2%AB%AA%A1%A0%A5%A2%AA%BF%A2%F0%A7%A3%BF%A7%A5%F3%F7%BF%A2%F7%AB%A3%BF%AA%A2%A6%F1%AA%A2%F6%A3%A0%A3%A0%AA%BC%F8%E2%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A3%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B7%A1%D1%E2%B7%A1%D7%B7%A1%D1%E1%E6%E0%FD%FC%F5%B7%A1%D7%B7%D3%A3%D0%E7%F7%FC%B7%A0%A2%E6%E0%F3%F0%F3%F8%FD%B7%A0%A2%FD%F0%E1%F7%E0%E4%F3%FC%F6%FD%B7%A0%A2%FE%FD%E1%B7%A0%A2%FB%FC%E1%F7%F1%E6%FD%E1%B7%A0%A3%B7%A1%D1%BD%E1%E6%E0%FD%FC%F5%B7%A1%D7%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%B7%A1%D1%E1%E6%E0%FD%FC%F5%B7%A1%D7%B7%A1%D1%FB%FF%F5%B7%A0%A2%E1%E0%F1%B7%A1%D6%B7%A0%A0%F3%E1%E1%F7%E6%B7%A1%D3%BD%BD%A6%A6%A4%A6%A6%A1%F0%F1%BF%A7%A6%F4%F4%BF%A6%F4%F0%F4%BF%A3%A3%A5%F6%BF%A0%F6%A4%F6%F6%A3%F7%AA%F3%F1%A5%AA%BC%E2%FC%F5%B7%A0%A0%B7%A0%A2%E5%FB%F6%E6%FA%B7%A1%D6%B7%A0%A0%A7%A3%A0%B7%A0%A0%B7%A0%A2%FA%F7%FB%F5%FA%E6%B7%A1%D6%B7%A0%A0%A7%A3%A0%B7%A0%A0%B7%A0%A2%F3%FE%E6%B7%A1%D6%B7%A0%A0%F0%FB%F7%FC%B7%A0%A0%B7%A0%A2%BD%B7%A1%D7%B7%A1%D1%BD%E1%E6%E0%FD%FC%F5%B7%A1%D7%B7%A1%D1%BD%E2%B7%A1%D7%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%E6%E0%E7%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%F1%E7%E1%E6%FD%FF%DF%F7%E1%E1%F3%F5%F7%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A2%BC%AA%BE%B0%F5%E0%FD%E7%E2%E1%B0%A8%C9%B0%DF%F3%E0%FB%E2%FD%E1%F3%B0%BE%B0%DF%F3%E0%FB%E3%E7%FB%E6%F3%B0%BE%B0%D5%E0%E7%E2%FD%B2%A1%B0%BE%B0%D5%E0%E7%E2%FD%B2%A6%B0%BE%B0%D5%E0%E7%E2%FD%B2%A7%B0%BE%B0%D5%E0%E7%E2%FD%B2%A4%B0%BE%B0%D5%E0%E7%E2%FD%B2%A5%B0%BE%B0%D5%E0%E7%E2%FD%B2%AA%B0%BE%B0%D5%E0%E7%E2%FD%B2%AB%B0%CF%BE%B0%FC%E7%FF%F0%F7%E0%D5%E0%FD%E7%E2%E1%B0%A8%A0%BE%B0%F5%F3%FF%F7%DE%F7%E4%F7%FE%B0%A8%A3%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%E6%E0%E7%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%A5%A0%AA%F3%F7%A5%F6%AB%BF%A0%AA%A1%F0%BF%A6%AA%A2%AA%BF%F3%A1%A3%F7%BF%A2%A1%F1%A1%A5%F0%F3%A7%A5%F0%AA%F7%B0%BE%B0%FB%FF%F5%D1%F3%E0%F6%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%A2%F0%A6%AA%A0%F1%F3%A5%BF%A1%F0%AA%AB%BF%AB%A4%F3%A4%BF%AB%AB%F3%F0%BF%A6%A3%F7%A7%AA%F7%A2%F6%A6%A3%AA%A2%BC%E2%FC%F5%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%A5%A7%A6%A5%AA%AB%A4%A6%A5%A4%BF%E7%FD%A2%A3%A0%E4%F5%F8%FC%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D7%FC%E4%FB%F3%E0%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%D3%F5%F3%FB%FC%B0%A8%B0%D8%E7%F5%F3%E0%B2%FD%E6%E0%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B2%E1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FD%FE%B0%A8%B03%D0%FB%F7%FC%B3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%CB%F7%E1%B0%A8%B0%C1%7F%B0%BE%B0%FF%E1%F5%DC%FD%B0%A8%B0%DC%FD%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%DD%E4%F7%E0%B0%A8%B0%C6%E7%B2%E6%FB%F7%FF%E2%FD%B2%FA%F3%B2%F4%FB%FC%F3%FE%FB%E8%F3%F6%FD%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%B0%BE%B0%FF%F5%E1%D5%F3%FF%F7%C1%E6%F3%E0%E6%B0%A8%B03%D7%FE%B2%F8%E7%F7%F5%FD%B2%FA%F3%B2%F1%FD%FF%F7%FC%E8%F3%F6%FD%B3%B2%D3%E0%E0%F3%E1%E6%E0%F3%B2%F1%F3%F6%F3%B2%E6%F3%E0%F8%F7%E6%F3%B2%FA%F3%E1%E6%F3%B2%E1%E7%B2%F1%FD%FC%E6%F7%FC%F7%F6%FD%E0%B0%BE%B0%FF%E1%F5%C1%F7%FE%F7%F1%E6%D1%F3%E0%F6%B0%A8%B0%C1%F7%FE%F7%F1%F1%FB%FD%FC%F3%B2%FD%E6%E0%F3%B2%E6%F3%E0%F8%F7%E6%F3%B0%BE%B0%FF%E1%F5%C1%F7%FE%F7%F1%E6%D1%F3%E0%F6%DD%FC%F7%B0%A8%B0%C1%F7%FE%F7%F1%F1%FB%FD%FC%F3%B2%E7%FC%F3%B2%E6%F3%E0%F8%F7%E6%F3%B0%BE%B0%FF%E1%F5%C0%F7%F0%FD%FD%E6%B0%A8%B0%C0%F7%FB%FC%FB%F1%FB%F3%E0%B0%BE%B0%FF%E1%F5%C6%F7%E1%E6%C2%F3%E1%E1%F7%F6%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B23%C2%E0%E7%F7%F0%F3%B2%E1%E7%E2%F7%E0%F3%F6%F3%B3%B0%BE%B0%FF%E1%F5%C6%F7%E1%E6%D4%F3%FB%FE%F7%F6%B0%A8%B0%DC%FD%B2%FA%F3%E1%B2%E1%E7%E2%F7%E0%F3%F6%FD%B2%FE%F3%B2%E2%E0%E7%F7%F0%F3%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%B0%BE%B0%FF%E1%F5%C0%F7%F0%FD%FD%E6%D5%F3%FF%F7%B0%A8%B0-%D6%F7%E1%F7%F3%E1%B2%E0%F7%FB%FC%FB%F1%FB%F3%E0%B2%F7%E1%E6%F3%B2%E2%F3%E0%E6%FB%F6%F3%AD%B0%BE%B0%FF%E1%F5%D1%FD%FC%E6%FB%FC%E7%F7%B0%A8%B0%D1%FD%FC%E6%FB%FC%E7%F3%E0%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%D3%FC%E1%E5%F7%E0%E1%B0%A8%B0%D1%FD%FF%E2%E0%FD%F0%F3%E0%B2%E0%F7%E1%E7%FE%E6%F3%F6%FD%E1%B0%BE%B0%FF%E1%F5%C7%FC%F3%FC%E1%E5%F7%E0%F7%F6%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%C6%F7%B2%FA%F3%FC%B2%E3%E7%F7%F6%F3%F6%FD%B2%B7%E1%B2%E6%F3%E0%F8%F7%E6%F3%E1%B2%E2%FD%E0%B2%F1%FD%FE%FD%F1%F3%E0%B2%F1%FD%E0%E0%F7%F1%E6%F3%FF%F7%FC%E6%F7%BC%B2-%C3%E7%FB%F7%E0%F7%E1%B2%FB%FC%E6%F7%FC%E6%F3%E0%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%AD%B0%BE%B0%FF%E1%F5%D3%FE%FE%D1%FD%E0%E0%F7%F1%E6%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B23%C6%FD%F6%FD%B2%E2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%C6%FD%FD%DF%F3%FC%EB%C6%E0%FB%F7%E1%B0%A8%B03%D7%E1%E6%E7%E2%F7%FC%F6%FD%B3%B2%DA%F3%E1%B2%E0%F7%E1%E7%F7%FE%E6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F7%FC%B2%B7%E1%B2%FB%FC%E6%F7%FC%E6%FD%E1%BC%B23%C1%F7%F5%E7%E0%FD%B2%E3%E7%F7%B2%E2%E7%F7%F6%F7%E1%B2%FA%F3%F1%F7%E0%FE%FD%B2%FFs%E1%B2%E0s%E2%FB%F6%FD%B3%B0%BE%B0%FF%E1%F5%C3%A7%B0%A8%B0%DC%FD%B2%FA%F3%E1%B2%F1%FD%FE%FD%F1%F3%F6%FD%B2%B7%E1%B2%E6%F3%E0%F8%F7%E6%F3%E1%B2%F7%FC%B2%E1%E7%B2%FE%E7%F5%F3%E0%BC%B23%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%B3%B0%BE%B0%FF%E1%F5%C3%A5%B0%A8%B03%D7%E1%E6%E7%E2%F7%FC%F6%FD%B3%B2%DA%F3%E1%B2%F1%FE%F3%E1%FB%F4%FB%F1%F3%F6%FD%B2%F1%FD%E0%E0%F7%F1%E6%F3%FF%F7%FC%E6%F7%B2%FE%F3%B2%FF%F3%EB%FD%E0%B2%E2%F3%E0%E6%F7%B2%F6%F7%B2%FE%F3%E1%B2%E6%F3%E0%F8%F7%E6%F3%E1%BE%B2%B7%E1%BE%B2%E2%F7%E0%FD%B2%F3h%FC%B2%E2%E7%F7%F6%F7%E1%B2%FF%F7%F8%FD%E0%F3%E0%B0%BE%B0%FF%E1%F5%C3%AB%B0%A8%B03%DF%F3%F5%FC%7F%F4%FB%F1%FD%B3%B2%C6%F3%FC%B2%E1%FD%FE%FD%B2%E6%F7%B2%FA%F3%FC%B2%E3%E7%F7%F6%F3%F6%FD%B2%B7%E1%B2%E6%F3%E0%F8%F7%E6%F3%E1%B2%E2%FD%E0%B2%F1%FD%FE%FD%F1%F3%E0%B2%F1%FD%E0%E0%F7%F1%E6%F3%FF%F7%FC%E6%F7%BC%B2%D0%E7%E1%F1%F3%B2%FE%F3%B2%E2%F7%E0%F4%F7%F1%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D5%F3%FF%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F3%FE%B2%F4%FB%FC%F3%FE%FB%E8%F3%E0%B2%F7%FE%B2%F8%E7%F7%F5%FD%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D5%F3%FF%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F3%FE%B2%F4%FB%FC%F3%FE%FB%E8%F3%E0%B2%F7%FE%B2%F8%E7%F7%F5%FD%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%E1%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%E0%C1%F1%FD%E0%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%E1%B2%F5%E7%F3%E0%F6%F3%E0%B2%E6%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%E0%F3%E1%B2%F4%FB%FC%F3%FE%FB%E8%F3%E0%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%BC%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FE%F3%E1%FB%F4%FB%F1%F3%B0%EF%EF</div><a href="{{context_path}}/content/resources/images (3).jpg" class="js-hidden clasifica-LinkImages">0</a><a href="{{context_path}}/content/resources/images (2).jpg" class="js-hidden clasifica-LinkImages">1</a><a href="{{context_path}}/content/resources/images (4).jpg" class="js-hidden clasifica-LinkImages">2</a><a href="{{context_path}}/content/resources/ladybug-8655134_640.jpg" class="js-hidden clasifica-LinkImages">3</a><a href="{{context_path}}/content/resources/Hotel de bichos-SdA.png" class="js-hidden clasifica-ImageBack" alt="Back" />Background</a><div class="clasifica-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777548604068-garpryi4m</odePageId>
+  <odeParentPageId>df7bc400-5433-4f70-bb2a-12622a9fe3fc</odeParentPageId>
+  <pageName>Sesión 7. Observamos el caracol</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 7. Observamos el caracol</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 7. Observamos el caracol</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777548604068-garpryi4m</odePageId>
+      <odeBlockId>block-1777548631351-su6rp1vbi</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777548604068-garpryi4m</odePageId>
+          <odeBlockId>block-1777548631351-su6rp1vbi</odeBlockId>
+          <odeIdeviceId>idevice-1777548631349-dd3ujoqbj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Actividad:</strong></p>
+<p>Hoy vamos a observar un caracol. Nos fijaremos en cómo se mueve, cómo es su cuerpo y dónde vive.</p>
+<p>Para ello, llevaremos al aula un caracol de verdad y apoyaremos también, la explicación de imágenes.<br />Observaremos con atención y después lo dibujaremos.</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777548631349-dd3ujoqbj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Actividad:</strong></p>\n<p>Hoy vamos a observar un caracol. Nos fijaremos en cómo se mueve, cómo es su cuerpo y dónde vive.</p>\n<p>Para ello, llevaremos al aula un caracol de verdad y apoyaremos también, la explicación de imágenes.<br />Observaremos con atención y después lo dibujaremos.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777548604068-garpryi4m</odePageId>
+      <odeBlockId>block-1777548802552-0sg102ki1</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777548604068-garpryi4m</odePageId>
+          <odeBlockId>block-1777548802552-0sg102ki1</odeBlockId>
+          <odeIdeviceId>idevice-1777548802551-ffujxtqla</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777548802551-ffujxtqla" title="" href="{{context_path}}/content/resources/caracoles_terrestres_que_son_caracteristicas_y_tipos_4547_600.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/caracoles_terrestres_que_son_caracteristicas_y_tipos_4547_600.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1777548802551-ffujxtqla" title="" href="{{context_path}}/content/resources/FOTO-CARACOL.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/FOTO-CARACOL.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_2" class="imageContainer"> <a idevice-id="idevice-1777548802551-ffujxtqla" title="" href="{{context_path}}/content/resources/concha_4166_2_600.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/concha_4166_2_600.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777548802551-ffujxtqla","img_0":{"img":"{{context_path}}/content/resources/caracoles_terrestres_que_son_caracteristicas_y_tipos_4547_600.jpg","thumbnail":"{{context_path}}/content/resources/caracoles_terrestres_que_son_caracteristicas_y_tipos_4547_600.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/FOTO-CARACOL.jpg","thumbnail":"{{context_path}}/content/resources/FOTO-CARACOL.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_2":{"img":"{{context_path}}/content/resources/concha_4166_2_600.jpg","thumbnail":"{{context_path}}/content/resources/concha_4166_2_600.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777548604068-garpryi4m</odePageId>
+      <odeBlockId>block-1777548902655-ashq9zhnm</odeBlockId>
+      <blockName>Vídeo caracol y reflexión</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777548604068-garpryi4m</odePageId>
+          <odeBlockId>block-1777548902655-ashq9zhnm</odeBlockId>
+          <odeIdeviceId>idevice-1777548902653-h49c9qv43</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Nos apoyaremos también de un video de como se mueve el caracol, la maestra indicará “Fijaos cómo se mueve y cómo saca los cuernos.”</p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/svbU2y-TJkc" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Con el caracol que tenemos en el aula, miraremos la concha con lupa binocular (microscopio que tenemos en el aula), y además, observaremos de forma textual tanto la concha como la baba de caracol.</p>
+<p><strong>Después reflexionaremos:</strong></p>
+<p>• ¿Cómo se mueve el caracol?<br />• ¿Es rápido o lento?<br />• ¿Cómo es su cuerpo?<br />• ¿Dónde lo solemos encontrar?</p>
+<p><strong>Actividad final:</strong></p>
+<p>Cada alumno anotara en su diario y dibujará las conclusiones obtenidas.</p>
+<p>Evaluación: Observa con atención y trata de manera respetuosa al animal; representa características básicas; participa en la conversación.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777548902653-h49c9qv43","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Nos apoyaremos también de un video de como se mueve el caracol, la maestra indicará “Fijaos cómo se mueve y cómo saca los cuernos.”</p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/svbU2y-TJkc\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p>Con el caracol que tenemos en el aula, miraremos la concha con lupa binocular (microscopio que tenemos en el aula), y además, observaremos de forma textual tanto la concha como la baba de caracol.</p>\n<p><strong>Después reflexionaremos:</strong></p>\n<p>• ¿Cómo se mueve el caracol?<br />• ¿Es rápido o lento?<br />• ¿Cómo es su cuerpo?<br />• ¿Dónde lo solemos encontrar?</p>\n<p><strong>Actividad final:</strong></p>\n<p>Cada alumno anotara en su diario y dibujará las conclusiones obtenidas.</p>\n<p>Evaluación: Observa con atención y trata de manera respetuosa al animal; representa características básicas; participa en la conversación.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777549214641-j4bg0n98m</odePageId>
+  <odeParentPageId>df7bc400-5433-4f70-bb2a-12622a9fe3fc</odeParentPageId>
+  <pageName>Sesión 8. La abeja</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 8. La abeja</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 8. La abeja</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777549214641-j4bg0n98m</odePageId>
+      <odeBlockId>block-1777549227470-slxpii0b8</odeBlockId>
+      <blockName>Conocemos la abeja</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777549214641-j4bg0n98m</odePageId>
+          <odeBlockId>block-1777549227470-slxpii0b8</odeBlockId>
+          <odeIdeviceId>idevice-1777549227469-2d0n4l85t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>La abeja es un insecto muy importante para la naturaleza.</li>
+<li>Vive en grupo y cada abeja tiene una tarea diferente.</li>
+</ul>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777549227469-2d0n4l85t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>La abeja es un insecto muy importante para la naturaleza.</li>\n<li>Vive en grupo y cada abeja tiene una tarea diferente.</li>\n</ul>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777549214641-j4bg0n98m</odePageId>
+      <odeBlockId>block-1777549369280-he8a85nr7</odeBlockId>
+      <blockName>Tipos de abeja y colmena</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777549214641-j4bg0n98m</odePageId>
+          <odeBlockId>block-1777549369280-he8a85nr7</odeBlockId>
+          <odeIdeviceId>idevice-1777549369278-cll71zvfo</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777549369278-cll71zvfo" title="" href="{{context_path}}/content/resources/88145.webp" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/88145.webp" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1777549369278-cll71zvfo" title="" href="{{context_path}}/content/resources/Castas-abejas.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Castas-abejas.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_2" class="imageContainer"> <a idevice-id="idevice-1777549369278-cll71zvfo" title="" href="{{context_path}}/content/resources/images (5).jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/images (5).jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_3" class="imageContainer"> <a idevice-id="idevice-1777549369278-cll71zvfo" title="" href="{{context_path}}/content/resources/bees-in-a-beehive-on-honeycomb-2022-04-07-23-24-04-utc.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/bees-in-a-beehive-on-honeycomb-2022-04-07-23-24-04-utc.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_4" class="imageContainer"> <a idevice-id="idevice-1777549369278-cll71zvfo" title="" href="{{context_path}}/content/resources/img_6490.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/img_6490.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777549369278-cll71zvfo","img_0":{"img":"{{context_path}}/content/resources/88145.webp","thumbnail":"{{context_path}}/content/resources/88145.webp","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/Castas-abejas.png","thumbnail":"{{context_path}}/content/resources/Castas-abejas.png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_2":{"img":"{{context_path}}/content/resources/images (5).jpg","thumbnail":"{{context_path}}/content/resources/images (5).jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_3":{"img":"{{context_path}}/content/resources/bees-in-a-beehive-on-honeycomb-2022-04-07-23-24-04-utc.jpg","thumbnail":"{{context_path}}/content/resources/bees-in-a-beehive-on-honeycomb-2022-04-07-23-24-04-utc.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_4":{"img":"{{context_path}}/content/resources/img_6490.jpg","thumbnail":"{{context_path}}/content/resources/img_6490.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777549214641-j4bg0n98m</odePageId>
+      <odeBlockId>block-1777549407438-a08yieukw</odeBlockId>
+      <blockName>Abeja polinizando</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777549214641-j4bg0n98m</odePageId>
+          <odeBlockId>block-1777549407438-a08yieukw</odeBlockId>
+          <odeIdeviceId>idevice-1777549407437-z3wlrr5xj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="315" height="560" src="https://www.youtube.com/embed/2AUobDRUfFs?si=Al0mkSQmM3fe5pZH" allowfullscreen="allowfullscreen"></iframe></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777549407437-z3wlrr5xj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"315\" height=\"560\" src=\"https://www.youtube.com/embed/2AUobDRUfFs?si=Al0mkSQmM3fe5pZH\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777549214641-j4bg0n98m</odePageId>
+      <odeBlockId>block-1777549506128-nd9850gme</odeBlockId>
+      <blockName>¿Qué hacen las abejas?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777549214641-j4bg0n98m</odePageId>
+          <odeBlockId>block-1777549506128-nd9850gme</odeBlockId>
+          <odeIdeviceId>idevice-1777549506126-kfscuj0yb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Actividad final:</strong> El alumno realizará un mural con las principales características de las abejas, lo harán en grupos de 4, incluyendo imágenes y texto:</p>
+<ul>
+<li>Algunas abejas buscan comida.</li>
+<li>Otras cuidan la colmena.</li>
+<li>La abeja reina pone huevos.</li>
+<li>La abeja reina es más grande que las obreras</li>
+</ul>
+<p><strong>Reflexión final en asamblea todos juntos:</strong></p>
+<ul>
+<li>¿Por qué crees que las abejas trabajan juntas?</li>
+<li>¿Qué pasaría si no hubiera abejas?</li>
+</ul>
+<p><strong>Evaluación:</strong></p>
+<p>Reconoce a la abeja y los tipos; Comprende que trabajan en grupo; Participa oralmente y de manera coordinada con sus compañeros.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777549506126-kfscuj0yb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Actividad final:</strong> El alumno realizará un mural con las principales características de las abejas, lo harán en grupos de 4, incluyendo imágenes y texto:</p>\n<ul>\n<li>Algunas abejas buscan comida.</li>\n<li>Otras cuidan la colmena.</li>\n<li>La abeja reina pone huevos.</li>\n<li>La abeja reina es más grande que las obreras</li>\n</ul>\n<p><strong>Reflexión final en asamblea todos juntos:</strong></p>\n<ul>\n<li>¿Por qué crees que las abejas trabajan juntas?</li>\n<li>¿Qué pasaría si no hubiera abejas?</li>\n</ul>\n<p><strong>Evaluación:</strong></p>\n<p>Reconoce a la abeja y los tipos; Comprende que trabajan en grupo; Participa oralmente y de manera coordinada con sus compañeros.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777549744766-dzkshdwin</odePageId>
+  <odeParentPageId>df7bc400-5433-4f70-bb2a-12622a9fe3fc</odeParentPageId>
+  <pageName>Sesión 9. La abeja: la miel y el apicultor</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 9. La abeja: la miel y el apicultor</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 9. La abeja: la miel y el apicultor</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777549744766-dzkshdwin</odePageId>
+      <odeBlockId>block-1777550128868-u2nfn0ufm</odeBlockId>
+      <blockName>Salida al Aula de la miel de Cangas de Onís</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777549744766-dzkshdwin</odePageId>
+          <odeBlockId>block-1777550128868-u2nfn0ufm</odeBlockId>
+          <odeIdeviceId>idevice-1777550128866-hlpzhrjrp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Previo a la salida:</strong></p>
+<ul>
+<li>Explicaremos al alumnado cómo vamos a ir a la salida y qué vamos a ver.</li>
+<li>Estableceremos las normas adecuadas a la salida</li>
+</ul>
+<p><strong>Visualización de vídeo, para acudir con conocimientos previos:</strong></p>
+<p><strong><iframe width="560" height="314" src="https://www.youtube.com/embed/Eoz2OiI1zmU" allowfullscreen="allowfullscreen"></iframe></strong></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777550128866-hlpzhrjrp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Previo a la salida:</strong></p>\n<ul>\n<li>Explicaremos al alumnado cómo vamos a ir a la salida y qué vamos a ver.</li>\n<li>Estableceremos las normas adecuadas a la salida</li>\n</ul>\n<p><strong>Visualización de vídeo, para acudir con conocimientos previos:</strong></p>\n<p><strong><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/Eoz2OiI1zmU\" allowfullscreen=\"allowfullscreen\"></iframe></strong></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777550305400-c9ksvmu5w</odePageId>
+  <odeParentPageId>df7bc400-5433-4f70-bb2a-12622a9fe3fc</odeParentPageId>
+  <pageName>Sesión 10. Salida al aula de la miel. Cangas de Onís</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 10. Salida al aula de la miel. Cangas de Onís</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777550305400-c9ksvmu5w</odePageId>
+      <odeBlockId>block-1777550398007-vdr7que7r</odeBlockId>
+      <blockName>Visita guiada</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777550305400-c9ksvmu5w</odePageId>
+          <odeBlockId>block-1777550398007-vdr7que7r</odeBlockId>
+          <odeIdeviceId>idevice-1777550398006-x0wzv6vi6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Visita Guiada, de una hora y media de duración aproximada, en la que conoceremos el mundo de las abejas, la polinización, el trabajo de los apicultores y la gastronomía de la miel.</p>
+<p>La entrada incluye visita guiada, degustación sensorial de los diferentes tipos de miel.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777550398006-x0wzv6vi6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Visita Guiada, de una hora y media de duración aproximada, en la que conoceremos el mundo de las abejas, la polinización, el trabajo de los apicultores y la gastronomía de la miel.</p>\n<p>La entrada incluye visita guiada, degustación sensorial de los diferentes tipos de miel.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777550451586-cf75509mv</odePageId>
+  <odeParentPageId>df7bc400-5433-4f70-bb2a-12622a9fe3fc</odeParentPageId>
+  <pageName>Sesión 11. Actividad post visita</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 11. Actividad post visita</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777550451586-cf75509mv</odePageId>
+      <odeBlockId>block-1777550455439-ky0as80ou</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777550451586-cf75509mv</odePageId>
+          <odeBlockId>block-1777550455439-ky0as80ou</odeBlockId>
+          <odeIdeviceId>idevice-1777550455438-ynh0jpx48</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Actividad:</strong></p>
+<p>Hablaremos de lo visto durante la visita, y haremos una clasificación de tipos de miel.</p>
+<p>También hablaremos del papel del apicultor, realizando una actividad, exponiendo la ropa que éste lleva.</p>
+<p><strong>Taller:</strong> Realizaremos una vela con cera de abeja</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777550455438-ynh0jpx48","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Actividad:</strong></p>\n<p>Hablaremos de lo visto durante la visita, y haremos una clasificación de tipos de miel.</p>\n<p>También hablaremos del papel del apicultor, realizando una actividad, exponiendo la ropa que éste lleva.</p>\n<p><strong>Taller:</strong> Realizaremos una vela con cera de abeja</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777550878671-3eogtu9q2</odePageId>
+  <odeParentPageId>df7bc400-5433-4f70-bb2a-12622a9fe3fc</odeParentPageId>
+  <pageName>Sesión 12: Ciclo de la vida de los insectos</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 12: Ciclo de la vida de los insectos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 12: Ciclo de la vida de los insectos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777550878671-3eogtu9q2</odePageId>
+      <odeBlockId>block-1777550880312-5egrx52rh</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777550878671-3eogtu9q2</odePageId>
+          <odeBlockId>block-1777550880312-5egrx52rh</odeBlockId>
+          <odeIdeviceId>idevice-1777550880311-onubu5oc2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Material manipulativo<br />Imágenes secuenciadas<br />Juego digital sencillo</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777550880311-onubu5oc2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Material manipulativo<br />Imágenes secuenciadas<br />Juego digital sencillo</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777550912631-n5hyuphia</odePageId>
+  <odeParentPageId>df7bc400-5433-4f70-bb2a-12622a9fe3fc</odeParentPageId>
+  <pageName>Sesión 13: ¿Qué aportan los insectos al planeta?</pageName>
+  <odeNavStructureOrder>14</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 13: ¿Qué aportan los insectos al planeta?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 13: ¿Qué aportan los insectos al planeta?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777550912631-n5hyuphia</odePageId>
+      <odeBlockId>block-1777550914416-803p4b282</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777550912631-n5hyuphia</odePageId>
+          <odeBlockId>block-1777550914416-803p4b282</odeBlockId>
+          <odeIdeviceId>idevice-1777550914416-rbkfwrxlq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Polinización<br />Cuidado del entorno<br />Asamblea reflexiva</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777550914416-rbkfwrxlq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Polinización<br />Cuidado del entorno<br />Asamblea reflexiva</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777550671951-mx23sgl52</odePageId>
+  <odeParentPageId>df7bc400-5433-4f70-bb2a-12622a9fe3fc</odeParentPageId>
+  <pageName>Sesión 14: Creación de la infografía interactiva</pageName>
+  <odeNavStructureOrder>16</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 14: Creación de la infografía interactiva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 14: Creación de la infografía interactiva</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777550653577-jfv1xayv8</odePageId>
+  <odeParentPageId>df7bc400-5433-4f70-bb2a-12622a9fe3fc</odeParentPageId>
+  <pageName>Sesión 15 y 16. Visita Birdwatch Asturias: creación hotel de bichos</pageName>
+  <odeNavStructureOrder>17</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 15 y 16. Visita Birdwatch Asturias: creación hotel de bichos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 15 y 16. Visita Birdwatch Asturias: creación hotel de bichos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777550704807-qfewzis2c</odePageId>
+  <odeParentPageId>df7bc400-5433-4f70-bb2a-12622a9fe3fc</odeParentPageId>
+  <pageName>Sesión 17 y 18: Guion y grabación podcast</pageName>
+  <odeNavStructureOrder>19</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 17 y 18: Guion y grabación podcast</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 17 y 18: Guion y grabación podcast</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777550747839-1xgyql3gu</odePageId>
+  <odeParentPageId>df7bc400-5433-4f70-bb2a-12622a9fe3fc</odeParentPageId>
+  <pageName>Sesión 19: Evaluación y autoevaluación</pageName>
+  <odeNavStructureOrder>20</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 19: Evaluación y autoevaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 19: Evaluación y autoevaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777550747839-1xgyql3gu</odePageId>
+      <odeBlockId>block-1777550749256-qqdfr6xvf</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777550747839-1xgyql3gu</odePageId>
+          <odeBlockId>block-1777550749256-qqdfr6xvf</odeBlockId>
+          <odeIdeviceId>idevice-1777550749255-n4v17t8jz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Autoevaluación sencilla<br />Presentación a familias / centro<br />Difusión a la comunidad</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777550749255-n4v17t8jz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autoevaluación sencilla<br />Presentación a familias / centro<br />Difusión a la comunidad</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777543164625-r30h68828</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación de la SdA</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación de la SdA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777543164625-r30h68828</odePageId>
+      <odeBlockId>block-1777543173323-nv0iiq566</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777543164625-r30h68828</odePageId>
+          <odeBlockId>block-1777543173323-nv0iiq566</odeBlockId>
+          <odeIdeviceId>idevice-1777543173322-97b2mvbz2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La evaluación será continua, global y formativa, basada en la observación directa del alumnado durante el desarrollo de las sesiones.</p>
+<p>Los productos finales (infografía interactiva y podcast) serán evaluados mediante rúbricas y listas de cotejo, que serán conocidas por el alumnado de forma adaptada a su edad.</p>
+<p>Se tendrá en cuenta la participación, el trabajo cooperativo, la expresión oral, el respeto al entorno y el uso guiado de herramientas digitales.</p>
+<p><strong>Atención a la diversidad y DUA</strong><br />Esta situación de aprendizaje se diseña teniendo en cuenta los principios del Diseño Universal para el Aprendizaje (DUA), ofreciendo múltiples formas de representación de la información (imágenes, vídeos, cuentos, juegos), diversas formas de participación y expresión (oral, artística, manipulativa y digital) y distintos agrupamientos, con el fin de atender a la diversidad del aula y garantizar la inclusión de todo el alumnado.</p>
+<p><em>Este recurso educativo ha sido elaborado por Patricia Sas Amez y se distribuye bajo la licencia Creative Commons Reconocimiento – Compartir Igual 4.0 (CC BY‑SA 4.0).</em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777543173322-97b2mvbz2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La evaluación será continua, global y formativa, basada en la observación directa del alumnado durante el desarrollo de las sesiones.</p>\n<p>Los productos finales (infografía interactiva y podcast) serán evaluados mediante rúbricas y listas de cotejo, que serán conocidas por el alumnado de forma adaptada a su edad.</p>\n<p>Se tendrá en cuenta la participación, el trabajo cooperativo, la expresión oral, el respeto al entorno y el uso guiado de herramientas digitales.</p>\n<p><strong>Atención a la diversidad y DUA</strong><br />Esta situación de aprendizaje se diseña teniendo en cuenta los principios del Diseño Universal para el Aprendizaje (DUA), ofreciendo múltiples formas de representación de la información (imágenes, vídeos, cuentos, juegos), diversas formas de participación y expresión (oral, artística, manipulativa y digital) y distintos agrupamientos, con el fin de atender a la diversidad del aula y garantizar la inclusión de todo el alumnado.</p>\n<p><em>Este recurso educativo ha sido elaborado por Patricia Sas Amez y se distribuye bajo la licencia Creative Commons Reconocimiento – Compartir Igual 4.0 (CC BY‑SA 4.0).</em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
